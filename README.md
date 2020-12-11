@@ -32,6 +32,9 @@ $ brew install gcc cmake opencv tesseract
 
 - Check out the links above for more info on how to install dependencies for your system. You will need MSVC-2015 or higher to build this project on Windows.
 
+### Installation
+- After obtaining the necessary dependencies, clone the repository with ```git clone https://github.com/shruthikmusukula/DigitalTextConverter.git``` on your local machine.
+
 ## Code Style
 This codebase was written in accordance with the Google C++ Style Guide (https://google.github.io/styleguide/cppguide.html). Code from the OpenCV and Tesseract frameworks may not adhere to these guidelines.
 
