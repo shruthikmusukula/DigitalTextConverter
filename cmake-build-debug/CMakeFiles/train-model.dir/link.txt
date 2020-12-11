@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/train-model.dir/apps/input_image_main.cc.o  -o train-model  /usr/local/Cellar/boost/1.73.0/lib/libboost_program_options-mt.dylib 

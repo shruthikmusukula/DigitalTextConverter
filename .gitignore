@@ -1,0 +1,8 @@
+# Ignore .idea CLion IDE config files
+/.idea
+
+# Ignore output data directory
+/data
+
+# Ignore cmake-build-debug directory
+/cmake-build-debug
